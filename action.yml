@@ -1,0 +1,5 @@
+name: action publish
+description: A GitHub Action to push any local file changes, including new files, back to supplied branch name.
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
