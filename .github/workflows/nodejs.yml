@@ -20,6 +20,6 @@ jobs:
         npm test
     - uses: zbeekman/ShellCheck-Linter-Action@v1.0.1
       name: shell linter
-    - uses: eunchurn/action-publish@v1
+    - uses: eunchurn/action-publish@v1.1.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
