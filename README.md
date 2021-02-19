@@ -12,6 +12,8 @@ Usage:
   env:
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     BRANCH_NAME: '' #optional defaults to master
+    USER_NAME: '' #optional defaults to "Automated publisher"
+    USER_EMAIL: '' #optional defaults to "actions@users.noreply.github.com"
 ```
 
 ## Acknowledgement
