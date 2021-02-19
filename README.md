@@ -8,7 +8,7 @@ that you'd then like to persist back into the repository.
 Usage:
 
 ```
-- uses: eunchurn/action-publish@v1
+- uses: eunchurn/action-publish@v1.1.1
   env:
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     BRANCH_NAME: '' #optional defaults to master
