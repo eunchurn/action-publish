@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2021-02-19)
+
+
+### Features
+
+* **user:** user environments ([bf0e204](https://github.com/eunchurn/publish-to-github-action/commit/bf0e204eda7ead358c5e1ccb8aa6ff1db48572f9))
+
 ## 1.0.0 (2021-02-17)
 
 
